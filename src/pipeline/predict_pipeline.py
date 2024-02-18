@@ -27,6 +27,7 @@ class PredictPipeline:
 
 
 class CustomData:
+     
     def __init__(  self,
         gender: str,
         race_ethnicity: str,
